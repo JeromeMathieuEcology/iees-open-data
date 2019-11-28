@@ -1,0 +1,4 @@
+Title,Type_of_Data,Keywords,Research_Field,Content,Year,Authors,Data,Publication
+Egrowth: a global Database of body growth of earthworm species,database,"Life history traits, Body size, Earthworm",animal ecology,Body Size measurement,2018,J. Mathieu,http://doi.org/10.5281/zenodo.1039952,https://doi.org/10.1016/j.soilbio.2018.04.004
+Tutoriel ArcGis et fragstats,tutorial,"GIS, Spatial analysis, Shapefile, raster",computer science,software tutorial,2019,J. Mathieu,https://zenodo.org/record/3226979,https://zenodo.org/record/3226979
+Fiji and R codes to extract microbial cell distribution in pictures,code,"image analysis, bacteria",microbiology,Software code,2018,X. Raynaud,https://zenodo.org/record/2414184,https://doi.org/10.3389/fenvs.2018.00061

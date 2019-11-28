@@ -1,0 +1,34 @@
+.centred-text {
+  text-align: center;
+}
+
+.fig-container {
+  text-align: center;
+}
+
+.fig {
+  background-color: #0074D9;
+  display: inline-block;
+}
+
+.banner{
+  position: fixed;
+  top: 305px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  overflow: hidden;
+  padding: 0;
+
+}
+
+.banner2{
+  position: fixed;
+  top: 501px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  overflow: hidden;
+  padding: 0;
+
+}
